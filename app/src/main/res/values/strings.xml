@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="berliner_android_title">Berliner Android</string>
+    <string name="party_animal_android_title">Party Animal Android</string>
+    <string name="humble_android_title">Humble Android</string>
+    <string name="snowflake_android_title">Snowflake Android</string>
+    <string name="author_dalle">DALL-E</string>
+    <string name="twentytwentyone">2021</string>
+    <string name="twentytwentytwo">2022</string>
+    <string name="twentytwentythree">2023</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
